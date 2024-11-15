@@ -1,0 +1,17 @@
+nama = input("Nama                 :")
+nim = int(input("Nim                  :"))
+Kelas_Paralel = int(input("Kelas Paralel        :"))
+ttl = input("Tempat/Tanggal Lahir :")
+alamat = input("Alamat               :")
+hobby = input("Hobby                :")
+no_hp = int(input("No. HP               :"))
+
+print("\n")
+
+print(f"Nama                 :{nama}")
+print(f"Nim                  :{nim}")
+print(f"Kelas Paralel        :{Kelas_Paralel}")
+print(f"Tempat/Tanggal Lahir :{ttl}")
+print(f"Alamat               :{alamat}")
+print(f"Hobby                :{hobby}")
+print(f"No. HP               :{no_hp}")
